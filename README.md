@@ -2,7 +2,7 @@
 
 Toto je váš první úkol v BI-3DT, ale body za něj nečejte...
 
-Před odevzdáním úlohy přes GitHub je třeba [projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/gdpr.html).
+Před odevzdáním úlohy přes GitHub je třeba [projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/cs/gdpr.html).
 
 - Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/1aY-Gk7Z
 - Přihlašte se svým GitHub účtem, nebo si ho vytvořte pokud ještě nemáte
